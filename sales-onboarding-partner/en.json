@@ -1,8 +1,8 @@
 {
-    "general-information": "General Information update",
+    "general-information": "General Information",
     "firmName": "Firm Name",
     "office-type": "Type of office",
-    "infine-licence-number": "Infine licence number",
-    "lang2": "Language",
-    "new": "New"
+    "new": "New update",
+    "lang1": "Language",
+    "add": "Add Item"
 }
