@@ -3,5 +3,6 @@
     "firmName": "Firm Name",
     "office-type": "Type of office",
     "hubspot-id": "Hubspot ID",
-    "infine-licence-number": "Infine licence number"
+    "infine-licence-number": "Infine licence number",
+    "lang": "Language"
 }
