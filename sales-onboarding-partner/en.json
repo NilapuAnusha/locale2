@@ -1,3 +1,8 @@
 {
-    
+    "firmName": "firmName",
+    "general-information": "general-information",
+    "hubspot-id": "hubspot-id",
+    "infine-licence-number": "infine-licence-number",
+    "office-type": "office-type",
+    "services": "services"
 }
